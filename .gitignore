@@ -30,6 +30,7 @@
 
 # Debug files
 *.dSYM/
+/Debug/*
 
 # =========================
 # Operating System Files
